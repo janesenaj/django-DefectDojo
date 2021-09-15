@@ -1,4 +1,4 @@
-﻿<Sessions><Session requestId="A61EB7C7546A7963515555C7B255BC4D"><URL>https://www.microfocus.com:443/en-us/home</URL><Scheme>https</Scheme><Host>www.microfocus.com</Host><Port>443</Port><AttackParamDescriptor></AttackParamDescriptor><Issues /><RawRequest id="A61EB7C7546A7963515555C7B255BC4D"><![CDATA[GET /en-us/home HTTP/1.1
+<Sessions><Session requestId="A61EB7C7546A7963515555C7B255BC4D"><URL>https://www.microfocus.com:443/en-us/home</URL><Scheme>https</Scheme><Host>www.microfocus.com</Host><Port>443</Port><AttackParamDescriptor></AttackParamDescriptor><Issues /><RawRequest id="A61EB7C7546A7963515555C7B255BC4D"><![CDATA[GET /en-us/home HTTP/1.1
 Accept: */*
 Accept-Encoding: gzip, deflate
 Pragma: no-cache

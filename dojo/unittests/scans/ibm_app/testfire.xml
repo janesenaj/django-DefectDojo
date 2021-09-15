@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <xml-report name="AppScan Report" technology="DAST" xmlExportVersion="2.42">
   <content>
@@ -5177,7 +5177,7 @@ Content-Type: text/html;charset=ISO-8859-1
  
 
 &lt;!-- BEGIN FOOTER --&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -5699,7 +5699,7 @@ Content-Type: text/html;charset=ISO-8859-1
  
     
 
- 
+ 
 ...
 
 </testResponseChunk>
@@ -6252,7 +6252,7 @@ Content-Type: text/html;charset=ISO-8859-1
  
     
 
- 
+ 
 ...
 
 </testResponseChunk>
@@ -6443,7 +6443,7 @@ Content-Type: text/html;charset=ISO-8859-1
  
     
 
- 
+ 
 ...
 
 </testResponseChunk>
@@ -7028,7 +7028,7 @@ Content-Type: text/html;charset=ISO-8859-1
       &lt;td valign=top&gt;&lt;b&gt;Online Banking&lt;/b&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td align=right&gt;Your Name:&lt;/td&gt;
+      &lt;td align=right&gt;Your Name:&lt;/td&gt;
 ...
 
 </testResponseChunk>
@@ -7216,7 +7216,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
 
  
 
-&lt;!-- BEGIN HEADER --&gt;
+&lt;!-- BEGIN HEADER --&gt;
 ...
 
 </testResponseChunk>
@@ -7442,7 +7442,7 @@ Content-Type: text/html;charset=ISO-8859-1
 
 &lt;!-- BEGIN HEADER --&gt;
 &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -7869,7 +7869,7 @@ Content-Type: text/html;charset=ISO-8859-1
 
 &lt;!-- BEGIN HEADER --&gt;
 &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -8096,7 +8096,7 @@ Content-Type: text/html;charset=ISO-8859-1
 
 &lt;!-- BEGIN HEADER --&gt;
 &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -8712,7 +8712,7 @@ Content-Type: text/html;charset=ISO-8859-1
             &lt;input type="submit" name="btnSubmit" value="Login"&gt;
           &lt;/td&gt;
         &lt;/tr&gt;
-    &lt;/table&gt;
+    &lt;/table&gt;
 ...
 
 </testResponseChunk>
@@ -8910,7 +8910,7 @@ Content-Type: text/html;charset=ISO-8859-1
 
 &lt;!-- BEGIN HEADER --&gt;
 &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -9278,7 +9278,7 @@ Content-Type: text/html;charset=ISO-8859-1
 
 &lt;!-- BEGIN HEADER --&gt;
 &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -9465,7 +9465,7 @@ Content-Type: text/html;charset=ISO-8859-1
  
     
 
- 
+ 
 ...
 
 </testResponseChunk>
@@ -9655,7 +9655,7 @@ Content-Type: text/html;charset=ISO-8859-1
  
     
 
- 
+ 
 ...
 
 </testResponseChunk>
@@ -9845,7 +9845,7 @@ Content-Type: text/html;charset=ISO-8859-1
  
     
 
- 
+ 
 ...
 
 </testResponseChunk>
@@ -10035,7 +10035,7 @@ Content-Type: text/html;charset=ISO-8859-1
 
 &lt;!-- BEGIN HEADER --&gt;
 &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -10792,7 +10792,7 @@ Content-Type: text/html;charset=ISO-8859-1
 
 &lt;!-- BEGIN HEADER --&gt;
 &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -11405,7 +11405,7 @@ Content-Type: text/html;charset=ISO-8859-1
 
 &lt;!-- BEGIN HEADER --&gt;
 &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -11832,7 +11832,7 @@ Content-Type: text/html;charset=ISO-8859-1
 &lt;!-- BEGIN FOOTER --&gt;
 
 
-&lt;/tr&gt;
+&lt;/tr&gt;
 ...
 
 </testResponseChunk>
@@ -12043,7 +12043,7 @@ Content-Type: text/html;charset=ISO-8859-1
 
 &lt;!-- BEGIN HEADER --&gt;
 &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -13865,7 +13865,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
  
     
 
- 
+ 
 ...
 
 </testResponseChunk>
@@ -15156,7 +15156,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
  
 
     
-    
+    
 ...
 
 ...
@@ -15179,7 +15179,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
   &lt;/div&gt;
     &lt;/td&gt; 
 &lt;/div&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -15374,7 +15374,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
          &lt;/td&gt;
          &lt;td&gt;
            &lt;input type="text" id="txtEmail" name="txtEmail" value="" style="width: 150px;"&gt;
-         &lt;/td&gt;
+         &lt;/td&gt;
 ...
 
 </testResponseChunk>
@@ -15951,7 +15951,7 @@ Content-Type: text/html;charset=ISO-8859-1
     "message": {
      "type": "string",
      "example": "I like the new look of your applicaiton"
-    }
+    }
 ...
 
 </testResponseChunk>
@@ -16784,7 +16784,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
 
  
 
-&lt;!-- BEGIN HEADER --&gt;
+&lt;!-- BEGIN HEADER --&gt;
 ...
 
 </testResponseChunk>
@@ -17419,7 +17419,7 @@ Content-Type: text/html;charset=ISO-8859-1
  
 
 &lt;!-- BEGIN FOOTER --&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -17612,7 +17612,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
 
  
 
-&lt;!-- BEGIN HEADER --&gt;
+&lt;!-- BEGIN HEADER --&gt;
 ...
 
 </testResponseChunk>
@@ -17831,7 +17831,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
 
  
 
-&lt;!-- BEGIN HEADER --&gt;
+&lt;!-- BEGIN HEADER --&gt;
 ...
 
 ...
@@ -17854,7 +17854,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
    &lt;/form&gt;
   &lt;/div&gt;    
     &lt;/td&gt; 
-&lt;/div&gt;
+&lt;/div&gt;
 ...
 
 </testResponseChunk>
@@ -18065,7 +18065,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
 
  
 
-&lt;!-- BEGIN HEADER --&gt;
+&lt;!-- BEGIN HEADER --&gt;
 ...
 
 ...
@@ -18088,7 +18088,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
     &lt;p&gt;
     &lt;a id="HyperLink1" href="./customize.jsp?content=customize.jsp&amp;lang=international"&gt;International&lt;/a&gt;
     &lt;a id="HyperLink2" href="./customize.jsp?content=customize.jsp&amp;lang=english"&gt;English&lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/p&gt;
 ...
 
 </testResponseChunk>
@@ -18300,7 +18300,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
  
 
 &lt;!-- BEGIN FOOTER --&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -18479,7 +18479,7 @@ Host: demo.testfire.net
 Upgrade-Insecure-Requests: 1
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
 Accept-Language: en-US,en;q=0.9
-
+
 ...
 
 </originalRequest>
@@ -18649,7 +18649,7 @@ Host: demo.testfire.net
 Upgrade-Insecure-Requests: 1
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
 Accept-Language: en-US,en;q=0.9
-
+
 ...
 
 </originalRequest>
@@ -19224,7 +19224,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
 
  
 
-&lt;!-- BEGIN HEADER --&gt;
+&lt;!-- BEGIN HEADER --&gt;
 ...
 
 ...
@@ -19247,7 +19247,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
  
 
 &lt;!-- BEGIN FOOTER --&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -19584,7 +19584,7 @@ Stacktrace:
  
 
 &lt;!-- BEGIN FOOTER --&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -19775,7 +19775,7 @@ Content-Type: text/html;charset=ISO-8859-1
    &lt;/form&gt;
   &lt;/div&gt;    
     &lt;/td&gt; 
-&lt;/div&gt;
+&lt;/div&gt;
 ...
 
 </testResponseChunk>
@@ -20097,7 +20097,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
 
 
  
-    
+    
 ...
 
 ...
@@ -20120,7 +20120,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
  
 
 &lt;!-- BEGIN FOOTER --&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -20423,7 +20423,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
  
 
     
-    
+    
 ...
 
 ...
@@ -20446,7 +20446,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
 &lt;/div&gt;
 
  
-
+
 ...
 
 </testResponseChunk>
@@ -20746,7 +20746,7 @@ Host: demo.testfire.net
 Upgrade-Insecure-Requests: 1
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
 Accept-Language: en-US,en;q=0.9
-
+
 ...
 
 </originalRequest>
@@ -20948,7 +20948,7 @@ Host: demo.testfire.net
 Content-Length: 0
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Accept-Language: en-US
-Content-Type: application/x-www-form-urlencoded
+Content-Type: application/x-www-form-urlencoded
 ...
 
 </originalRequest>
@@ -21170,7 +21170,7 @@ Content-Type: text/html;charset=ISO-8859-1
  
 
 &lt;!-- BEGIN FOOTER --&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -21365,7 +21365,7 @@ Content-Type: text/html;charset=ISO-8859-1
   &lt;/div&gt;
     &lt;/td&gt; 
 &lt;/div&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -21552,7 +21552,7 @@ Host: demo.testfire.net
 Accept: */*
 Accept-Language: en-US,en;q=0.9
 
-
+
 ...
 
 </originalRequest>
@@ -21760,7 +21760,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
  
 
     
-    
+    
 ...
 
 ...
@@ -21783,7 +21783,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
   &lt;/div&gt;
     &lt;/td&gt; 
 &lt;/div&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -22077,7 +22077,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
  
 
     
-    
+    
 ...
 
 ...
@@ -22100,7 +22100,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
   &lt;/div&gt;
     &lt;/td&gt; 
 &lt;/div&gt;
-
+
 ...
 
 </testResponseChunk>
@@ -22382,7 +22382,7 @@ Host: demo.testfire.net
 Upgrade-Insecure-Requests: 1
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
 Accept-Language: en-US,en;q=0.9
-
+
 ...
 
 </originalRequest>
@@ -22739,7 +22739,7 @@ Host: demo.testfire.net
 Content-Length: 0
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Accept-Language: en-US
-Content-Type: application/x-www-form-urlencoded
+Content-Type: application/x-www-form-urlencoded
 ...
 
 </originalRequest>
@@ -22959,7 +22959,7 @@ Content-Type: text/html;charset=ISO-8859-1
     &lt;p&gt;
     &lt;a id="HyperLink1" href="./customize.jsp?content=customize.jsp&amp;lang=international"&gt;International&lt;/a&gt;
     &lt;a id="HyperLink2" href="./customize.jsp?content=customize.jsp&amp;lang=english"&gt;English&lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/p&gt;
 ...
 
 </testResponseChunk>
@@ -23279,7 +23279,7 @@ Host: demo.testfire.net
 Upgrade-Insecure-Requests: 1
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
 Accept-Language: en-US,en;q=0.9
-
+
 ...
 
 </originalRequest>
@@ -23481,7 +23481,7 @@ Host: demo.testfire.net
 Upgrade-Insecure-Requests: 1
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
 Accept-Language: en-US,en;q=0.9
-
+
 ...
 
 </originalRequest>
@@ -23694,7 +23694,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
 
  
 
-&lt;!-- BEGIN HEADER --&gt;
+&lt;!-- BEGIN HEADER --&gt;
 ...
 
 ...
@@ -23717,7 +23717,7 @@ Content-Type: --begin_highlight_tag--text/html--end_highlight_tag--;charset=ISO-
    &lt;/form&gt;
   &lt;/div&gt;    
     &lt;/td&gt; 
-&lt;/div&gt;
+&lt;/div&gt;
 ...
 
 </testResponseChunk>
@@ -24218,7 +24218,7 @@ Content-Type: text/html;charset=ISO-8859-1
 
 
     
-
+
 ...
 
 ...
@@ -24241,7 +24241,7 @@ Content-Type: text/html;charset=ISO-8859-1
 &lt;!-- MEMBER TOC END --&gt;
  &lt;td valign="top" colspan="3" class="bb"&gt;
   
-  
+  
 ...
 
 ...
@@ -24271,7 +24271,7 @@ Content-Type: text/html;charset=ISO-8859-1
       &lt;/th&gt;
       &lt;th&gt;
         Account Types:
-      &lt;/th&gt;
+      &lt;/th&gt;
 ...
 
 ...
@@ -24301,7 +24301,7 @@ Content-Type: text/html;charset=ISO-8859-1
       &lt;th&gt;
         Password:
       &lt;/th&gt;
-      &lt;th&gt;
+      &lt;th&gt;
 ...
 
 ...
@@ -24331,7 +24331,7 @@ Content-Type: text/html;charset=ISO-8859-1
         Last Name:
       &lt;/th&gt;
       &lt;th&gt;
-        Username:
+        Username:
 ...
 
 ...
@@ -24354,7 +24354,7 @@ Content-Type: text/html;charset=ISO-8859-1
       &lt;/td&gt;
     &lt;/tr&gt;
    &lt;/form&gt;
-    
+    
 ...
 
 </responseChunk>
@@ -24859,7 +24859,7 @@ Content-Type: text/html;charset=ISO-8859-1
 
 
   
-    
+    
 ...
 
 ...
@@ -24882,7 +24882,7 @@ Content-Type: text/html;charset=ISO-8859-1
 &lt;!-- MEMBER TOC END --&gt;
  &lt;td valign="top" colspan="3" class="bb"&gt;
   &lt;h1&gt;Administration Login&lt;/h1&gt;
-  
+  
 ...
 
 </responseChunk>
@@ -25102,7 +25102,7 @@ Host: demo.testfire.net
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Accept-Language: en-US
 
-
+
 ...
 
 </originalRequest>
@@ -25480,7 +25480,7 @@ Content-Type: text/html;charset=ISO-8859-1
     &lt;table&gt;
       &lt;tr&gt;
         &lt;td&gt;
-          Username:
+          Username:
 ...
 
 </testResponseChunk>
@@ -25668,7 +25668,7 @@ Content-Type: text/html;charset=ISO-8859-1
   &lt;h1&gt;Edit User Information&lt;/h1&gt;
   
   &lt;table width="100%" border="0"&gt;
-  &lt;!-- action="addAccount" --&gt;
+  &lt;!-- action="addAccount" --&gt;
 ...
 
 </testResponseChunk>
@@ -25885,7 +25885,7 @@ Content-Type: text/html;charset=ISO-8859-1
   &lt;span id="_ctl0__ctl0_Content_Administration"&gt;
    &lt;br style="line-height: 10px;"/&gt;
    &lt;b&gt;ADMINISTRATION&lt;/b&gt;
-   &lt;ul class="sidebar"&gt;
+   &lt;ul class="sidebar"&gt;
 ...
 
 </testResponseChunk>
@@ -26099,7 +26099,7 @@ Content-Type: text/html;charset=ISO-8859-1
       &lt;td colspan=2&gt;
         &lt;table cellSpacing="0" cellPadding="1" width="100%" border="1"&gt;
           &lt;tr&gt;
-            &lt;th colSpan="2"&gt;
+            &lt;th colSpan="2"&gt;
 ...
 
 </testResponseChunk>
@@ -26309,7 +26309,7 @@ Content-Type: text/html;charset=ISO-8859-1
       &lt;th&gt;
         Users:
       &lt;/th&gt;
-      &lt;th&gt;
+      &lt;th&gt;
 ...
 
 </testResponseChunk>
@@ -26530,7 +26530,7 @@ Content-Type: text/html;charset=ISO-8859-1
         &lt;/ul&gt;
     &lt;/li&gt;
 
-    &lt;li&gt;&lt;b&gt;Health Plans: &lt;/b&gt;
+    &lt;li&gt;&lt;b&gt;Health Plans: &lt;/b&gt;
 ...
 
 </testResponseChunk>
