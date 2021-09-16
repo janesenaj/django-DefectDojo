@@ -1,0 +1,13 @@
+[
+    {
+        "type": "warning",
+        "module": "a",
+        "obj": "",
+        "line": 9,
+        "column": 0,
+        "path": "a.py",
+        "symbol": "bad-indentation",
+        "message": "Bad indentation. Found 3 spaces, expected 4",
+        "message-id": "W0311"
+    }
+]

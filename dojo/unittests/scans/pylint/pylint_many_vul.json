@@ -1,0 +1,57 @@
+[
+      {
+        "type": "convention",
+        "module": "a",
+        "obj": "",
+        "line": 1,
+        "column": 1,
+        "path": "a.py",
+        "symbol": "convention symbol",
+        "message": "convention message",
+        "message-id": "c-1"
+    },
+        {
+        "type": "refactor",
+        "module": "a",
+        "obj": "",
+        "line": 2,
+        "column": 2,
+        "path": "b.py",
+        "symbol": "refactor symbol",
+        "message": "refactor message",
+        "message-id": "r-1"
+    },
+        {
+        "type": "warning",
+        "module": "a",
+        "obj": "",
+        "line": 3,
+        "column": 3,
+        "path": "c.py",
+        "symbol": "warning symbol",
+        "message": "warning message",
+        "message-id": "w-1"
+    },
+        {
+        "type": "error",
+        "module": "a",
+        "obj": "",
+        "line": 4,
+        "column": 4,
+        "path": "d.py",
+        "symbol": "error symbol",
+        "message": "error message",
+        "message-id": "e-1"
+    },
+        {
+        "type": "fatal",
+        "module": "a",
+        "obj": "",
+        "line": 5,
+        "column": 5,
+        "path": "e.py",
+        "symbol": "fatal symbol",
+        "message": "fatal message",
+        "message-id": "f-1"
+    }
+]
